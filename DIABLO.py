@@ -14,7 +14,7 @@ def afficher_zone(zone):
 
 
 # Configuration de la page
-st.set_page_config(page_title="Template 5 Zones", layout="wide")
+st.set_page_config(page_title="DIABLO, the review, by AjaxxxProMax", layout="wide")
 st.markdown("""
     <h1 style='color: #8A0303; font-family: Verdana; font-size: 48px;'>DIABLO</h1>
 """, unsafe_allow_html=True)
